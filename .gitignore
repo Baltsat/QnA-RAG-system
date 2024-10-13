@@ -1,5 +1,5 @@
 *.DS_Store
-
+.DS_Store
 __pycache__
 chromadb_data
 database/poetry.lock
