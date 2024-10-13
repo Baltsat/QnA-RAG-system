@@ -1,0 +1,12 @@
+__pycache__
+.env
+
+/litellm
+
+
+!pipelines/.gitignore
+.DS_Store
+
+.venv
+venv/
+pipelines/sales_agent_pipeline/valves.json
