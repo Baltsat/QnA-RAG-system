@@ -1,0 +1,4 @@
+__pycache__
+chromadb_data
+database/poetry.lock
+.env
